@@ -1,0 +1,7 @@
+C:\#Team05\2020_11_09\kekturaRekord\kekturaRekord\bin\Debug\kekturaRekord.exe.config
+C:\#Team05\2020_11_09\kekturaRekord\kekturaRekord\bin\Debug\kekturaRekord.exe
+C:\#Team05\2020_11_09\kekturaRekord\kekturaRekord\bin\Debug\kekturaRekord.pdb
+C:\#Team05\2020_11_09\kekturaRekord\kekturaRekord\obj\Debug\kekturaRekord.csprojAssemblyReference.cache
+C:\#Team05\2020_11_09\kekturaRekord\kekturaRekord\obj\Debug\kekturaRekord.csproj.CoreCompileInputs.cache
+C:\#Team05\2020_11_09\kekturaRekord\kekturaRekord\obj\Debug\kekturaRekord.exe
+C:\#Team05\2020_11_09\kekturaRekord\kekturaRekord\obj\Debug\kekturaRekord.pdb
